@@ -8,7 +8,7 @@ const monoSans = Mona_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "AIPrep",
+  title: "PrepPluse",
   description: "AI Powered Platform for Interview Preparation",
 };
 
